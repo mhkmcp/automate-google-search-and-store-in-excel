@@ -1,0 +1,528 @@
+,Unnamed: 0,division,district,thana,lat,long,geohash
+0,0,Khulna,Jhenaidah,Shailkupa,23.6840828,89.2419658,tupqwz81b90
+1,1,Dhaka,Munshiganj,Tongibari,23.5096549,90.4667501,wh0mdxgcsj6
+2,2,Barisal,Bhola,Char Fasson,22.0937737,90.7152749,w5bt8q0ce1g
+3,3,Chittagong,Chittagong,Fatikchhari,22.749818,91.733715,wh11rmqrq3r
+4,4,Khulna,Kushtia,Kushtia Sadar,23.8799007,89.0920225,tuprg74yd84
+5,5,Rangpur,Dinajpur,Chirirbandar,25.6503373,88.7770522,tux1ujt2p32
+6,7,Mymensingh,Mymensingh,Nandail,24.5687223,90.6903529,wh27z8wenmu
+7,8,Mymensingh,Mymensingh,Fulbaria,24.5715533,90.26200419999999,wh25vcng9js
+8,9,Mymensingh,Mymensingh,Gauripur,24.6923421,90.5943697,wh2kmx0g3f4
+9,10,Dhaka,Kishoreganj,Katiadi,24.0555274,90.9802452,wh28y71v977
+10,11,Barisal,Patuakhali,Bauphal,22.4192529,90.55651379999999,w5brs9m1xew
+11,12,Khulna,Kushtia,Daulatpur,24.0050486,88.87552989999999,tur0w3vptcq
+12,13,Sylhet,Habiganj,Madhabpur,24.0998223,91.2963269,wh2cj7pzws7
+13,14,Rajshahi,Bogra,Adamdighi,24.8002827,89.0418249,turm44y20gu
+14,15,Dhaka,Kishoreganj,Austagram,,,
+15,16,Sylhet,Maulvibazar,Kamalganj,24.3584367,91.8611011,wh36d674nv9
+16,17,Mymensingh,Jamalpur,Madarganj,24.8802883,89.7567693,turvd3qfhmf
+17,18,Chittagong,Comilla,Barura,23.2448524,91.12117459999999,wh0u1x87j68
+18,19,Rajshahi,Naogaon,Badalgachhi,24.968485,88.9102489,turnp1q7yyy
+19,21,Dhaka,Munshiganj,Munshiganj Sadar,23.5004745,90.5446912,wh0msqhshjz
+20,22,Chittagong,Chittagong,Lohagara,23.1675793,89.64399240000002,tupezcsbbmv
+21,23,Dhaka,Narsingdi,Roypura,23.9944276,90.87186919999999,wh28eb4csj2
+22,25,Chittagong,Comilla,Nangalkot,23.1694062,91.1977158,wh0gg3b5sf3
+23,26,Mymensingh,Jamalpur,Melandaha,24.98125,89.82708939999999,turyh5dn6fs
+24,27,Barisal,Jhalokati,Kanthalia,22.4052778,90.09336859999999,w5bp6ngbpws
+25,28,Chittagong,Rangamati,Langadu,22.9385888,92.18432849999999,wh1d3xydfwc
+26,29,Sylhet,Sunamganj,Sunamganj Sadar,,,
+27,31,Dhaka,Dhaka,Keraniganj,23.7012548,90.3974582,wh0qc49mv6n
+28,32,Dhaka,Kishoreganj,Bhairab,24.0555274,90.9802452,wh28y71v977
+29,33,Khulna,Satkhira,Satkhira Sadar,22.7361633,89.0370477,tup364fzc84
+30,34,Barisal,Barisal,Babuganj,22.834068,90.3183792,wh01zhzf4fb
+31,35,Mymensingh,Netrakona,Purbadhala,24.9268228,90.5825359,wh2mv3b1q0d
+32,36,Dhaka,Dhaka,Nawabganj,25.4192594,89.0784642,tux2e52vytm
+33,37,Rajshahi,Naogaon,Dhamoirhat,25.1503961,88.85150279999999,turpjf7xwjd
+34,38,Rajshahi,Pabna,Sujanagar,23.9421529,89.4210136,tur84yd3hsu
+35,39,Chittagong,Chittagong,Boalkhali,22.3791057,91.9172519,w5cr79upepw
+36,40,Sylhet,Habiganj,Chunarughat,24.1843292,91.4821482,wh319dx7bt9
+37,41,Rajshahi,Joypurhat,Kalai,25.0800353,89.19916119999999,turqtv8vg17
+38,42,Rajshahi,Naogaon,Atrai,24.6121527,88.9828998,turk0be25vg
+39,43,Chittagong,Rangamati,Barkal,22.7251557,92.3795109,wh19q0uxws5
+40,44,Rajshahi,Naogaon,Sapahar,25.1258991,88.587932,tuqyzy5bbrj
+41,45,Khulna,Khulna,Rupsa,22.8004577,89.5868179,tup9wwenk1m
+42,47,Dhaka,Tangail,Mirzapur,24.1052534,90.1050557,wh214khrrbz
+43,48,Chittagong,Comilla,Laksam,23.2448524,91.12117459999999,wh0u1x87j68
+44,49,Sylhet,Habiganj,Ajmiriganj,24.5489217,91.2361706,wh2gshupufe
+45,51,Khulna,Khulna,Terokhada,22.9353223,89.6675144,tupf2rjzutb
+46,52,Rajshahi,Naogaon,Patnitala,25.064922,88.7301525,turne4gmf2j
+47,53,Rangpur,Thakurgaon,Thakurgaon Sadar,26.0287744,88.47855310000001,tuwuj6kheen
+48,54,Sylhet,Maulvibazar,Maulvi Bazar Sadar,24.467064,91.714958,wh35pn0fcrm
+49,56,Chittagong,Brahamanbaria,Akhaura,23.8686193,91.20972909999999,wh0zg90uu9p
+50,57,Rajshahi,Joypurhat,Akkelpur,24.9248618,89.0370477,turmf16vce4
+51,58,Dhaka,Faridpur,Sadarpur,23.477146,90.02491839999999,wh0j89fhk9h
+52,59,Mymensingh,Mymensingh,Mymensingh Sadar,24.7851062,90.3560076,wh2kbpgpxwd
+53,60,Chittagong,Comilla,Muradnagar,23.7128182,90.9438468,wh0wvkz31jx
+54,61,Rangpur,Dinajpur,Fulbari,25.4454443,88.8838834,tux0y85q2we
+55,62,Rangpur,Rangpur,Gangachara,25.8300734,89.1195784,tux6gynzhdw
+56,63,Khulna,Chuadanga,Alamdanga,23.7626671,88.94378069999999,tupppvygs61
+57,64,Dhaka,Tangail,Gopalpur,24.5628538,89.9276592,turgwre2frf
+58,66,Rajshahi,Joypurhat,Khetlal,25.0380091,89.10864769999999,turq7wnbvzp
+59,68,Rangpur,Rangpur,Taraganj,25.7780177,89.0370477,tux6dhdzcdf
+60,69,Sylhet,Sylhet,Bishwanath,,,
+61,70,Rajshahi,Nawabganj,Nawabganj Sadar,24.5914702,88.282083,tuqgbutp9wk
+62,71,Dhaka,Faridpur,Alfadanga,23.2986538,89.6722171,tupu893k6pg
+63,72,Dhaka,Faridpur,Bhanga,23.4061686,90.0186555,wh0j0kvwfdn
+64,73,Chittagong,Cox's Bazar,Kutubdia,21.816667,91.858333,w5ck4795q33
+65,74,Dhaka,Faridpur,Faridpur Sadar,23.6203524,89.81303559999999,tupy7ezye2v
+66,75,Rangpur,Dinajpur,Hakimpur,25.292669,89.0657027,turrfsrsmr1
+67,76,Chittagong,Bandarban,Alikadam,21.655771,92.311163,w5cehw6fn02
+68,77,Chittagong,Bandarban,Rowangchhari,22.214259,92.336789,w5cwm5vx7nh
+69,78,Barisal,Barisal,Mehendiganj,22.8260701,90.5269639,wh03ggrerpu
+70,79,Barisal,Bhola,Bhola Sadar,22.6901809,90.62041649999999,wh03n4egbu2
+71,80,Dhaka,Madaripur,Kalkini,23.0724326,90.2807868,wh05q2hqwv1
+72,81,Rajshahi,Nawabganj,Gomastapur,24.7933883,88.2897742,tuqv116xuye
+73,83,Sylhet,Sylhet,Beani Bazar,,,
+74,84,Barisal,Patuakhali,Dashmina,22.2791401,90.56833990000001,w5bqszvc7k8
+75,85,Dhaka,Rajbari,Rajbari Sadar,23.7153155,89.6628111,tupybm4rwzj
+76,88,Dhaka,Narayanganj,Narayanganj Sadar,23.6315743,90.4974359,wh0q7mfpzhe
+77,89,Sylhet,Sylhet,Gowainghat,,,
+78,90,Chittagong,Comilla,Chauddagram,23.228035,91.3131861,wh0ujus1p7w
+79,91,Dhaka,Narsingdi,Narsingdi Sadar,23.8807024,90.6962853,wh0rzg750te
+80,92,Dhaka,Tangail,Madhupur,24.6118636,90.0314865,wh2h08qymxy
+81,93,Khulna,Chuadanga,Chuadanga Sadar,23.59267,88.8838834,tupnnwgm287
+82,95,Rangpur,Dinajpur,Khansama,25.9362732,88.8407037,tux5t9ecdry
+83,96,Rangpur,Panchagarh,Atwari,26.2454538,88.4210006,tuwvk1f4yeh
+84,97,Chittagong,Noakhali,Begumganj,22.9319328,91.0921473,wh0f2yek0yh
+85,98,Khulna,Khulna,Koyra,22.0940864,89.3606298,tgzt9qn7ms5
+86,100,Khulna,Magura,Sreepur,23.5955714,89.41746409999999,tupw4xry1vm
+87,101,Chittagong,Chittagong,Sandwip,,,
+88,103,Rangpur,Panchagarh,Panchagarh Sadar,26.3891101,88.6144839,tuxn07zpens
+89,105,Khulna,Kushtia,Khoksa,23.8058265,89.2836391,tuprrtwqgxd
+90,106,Khulna,Kushtia,Mirpur,23.93095,89.0005805,tur21k2pzu6
+91,107,Chittagong,Noakhali,Sonaimuri,23.0509273,91.1113216,wh0g1k31rsm
+92,110,Khulna,Meherpur,Meherpur Sadar,23.781239,88.6530753,tupp335py2k
+93,111,Rajshahi,Joypurhat,Joypurhat Sadar,25.1146553,89.0370477,turqf5fz3x4
+94,113,Rangpur,Thakurgaon,Haripur,25.8640905,88.14865700000001,tuweju7vhxf
+95,114,Dhaka,Madaripur,Rajoir,23.2066833,90.04899019999999,wh0h10estx3
+96,115,Chittagong,Chittagong,Satkania,22.09506,92.050998,w5cmwwm3p9w
+97,116,Dhaka,Dhaka,Savar,23.8478798,90.2575646,wh0ptv7ecxn
+98,119,Chittagong,Feni,Sonagazi,22.8491219,91.3915948,wh0czxt3f90
+99,120,Mymensingh,Mymensingh,Trishal,24.5712183,90.4125181,wh27c3h3sr5
+100,122,Khulna,Khulna,Batiaghata,22.7263608,89.5025641,tup9k9jy8us
+101,124,Chittagong,Feni,Fulgazi,23.1139399,91.4241426,wh152rv02yt
+102,125,Rangpur,Thakurgaon,Baliadangi,26.0854593,88.2765381,tuwu2u9nb6j
+103,127,Barisal,Patuakhali,Galachipa,22.1633734,90.41016189999999,w5bq16dxj2q
+104,129,Dhaka,Narsingdi,Belabo,24.0821904,90.83892519999999,wh29504bume
+105,130,Barisal,Patuakhali,Mirzaganj,22.3693991,90.2150873,w5bpkbhx5yh
+106,131,Barisal,Pirojpur,Mathbaria,22.2860857,89.9626799,tgzyz1hcf7k
+107,132,Barisal,Pirojpur,Kawkhali,22.6079392,90.04665589999999,wh00959uz1m
+108,133,Chittagong,Comilla,Comilla Adarsha Sadar,23.4613841,91.1640968,wh0v6rp8mqv
+109,134,Rajshahi,Bogra,Shajahanpur,24.7604268,89.3606298,tursc7qrvw5
+110,135,Dhaka,Dhaka,Dhamrai,23.7932126,90.2713349,wh0pq5mtd83
+111,136,Mymensingh,Mymensingh,Haluaghat,25.1242115,90.33955139999999,wh2nztxr0h7
+112,138,Mymensingh,Netrakona,Netrokona Sadar,24.8550453,90.7152749,wh2t2k8z5h7
+113,139,Barisal,Barguna,Amtali,22.1339094,90.23619289999999,w5bjvm7grey
+114,140,Chittagong,Khagrachhari,Matiranga,23.0407988,91.8733017,wh174dkn7h4
+115,141,Chittagong,Rangamati,Baghai Chhari,23.15,92.1917,wh1e9y7fw2c
+116,142,Dhaka,Gopalganj,Kotali Para,,,
+117,144,Sylhet,Sylhet,Golabganj,,,
+118,147,Chittagong,Noakhali,Noakhali Sadar (Sudharam),,,
+119,149,Rangpur,Kurigram,Bhurungamari,26.1119582,89.68162079999999,tuxu8c81jjz
+120,152,Khulna,Chuadanga,Jiban Nagar,23.4226037,88.82389959999999,tupjjpzwdcg
+121,153,Dhaka,Tangail,Ghatail,24.4767377,90.0373201,wh250zg5mde
+122,155,Barisal,Patuakhali,Dumki,22.4644533,90.38425269999999,w5brb9xbctx
+123,156,Dhaka,Shariatpur,Shariatpur Sadar,23.219547,90.34825119999999,wh0hpfvxdv6
+124,157,Rangpur,Rangpur,Pirgachha,25.657772,89.4055588,tux9fqz5ke2
+125,158,Chittagong,Chittagong,Anowara,22.2337164,91.8659809,w5cq6rwbb90
+126,159,Khulna,Satkhira,Assasuni,22.5463195,89.18964299999999,tup2m83vv6d
+127,160,Rajshahi,Joypurhat,Panchbibi,25.1858842,89.0179122,turr38uy7tn
+128,161,Mymensingh,Jamalpur,Sarishabari,24.7669433,89.8409152,turuuksjvhc
+129,162,Chittagong,Brahamanbaria,Sarail,24.1163728,91.07777229999999,wh2c0w2b1ct
+130,163,Khulna,Jessore,Kotwali,22.3375,91.8389,w5cr1f7j37z
+131,164,Dhaka,Kishoreganj,Hossainpur,24.4165619,90.6555614,wh26yuvkg9n
+132,165,Dhaka,Narayanganj,Araihazar,23.7916557,90.6535914,wh0rqg5umy1
+133,166,Chittagong,Brahamanbaria,Ashuganj,24.0384551,91.003711,wh28yb4fhhv
+134,169,Rajshahi,Rajshahi,Bagha,24.2109221,88.8455037,tur1txrqf6c
+135,172,Rajshahi,Natore,Lalpur,24.2117459,88.96053649999999,tur38re5dsx
+136,176,Dhaka,Tangail,Bhuapur,24.4528401,89.7942892,turg57d0nef
+137,178,Chittagong,Noakhali,Senbagh,22.9726148,91.2313618,wh0fsn09hvc
+138,180,Khulna,Magura,Shalikha,23.3571618,89.341667,tupsch097dx
+139,181,Dhaka,Shariatpur,Bhedarganj,23.2148117,90.5068824,wh0k5d1h54w
+140,182,Dhaka,Manikganj,Shibalaya,23.8346225,89.8692203,tupzt4by8xe
+141,183,Chittagong,Comilla,Homna,23.6824728,90.78329079999999,wh0w9z627uz
+142,185,Sylhet,Sunamganj,Jagannathpur,,,
+143,186,Sylhet,Maulvibazar,Sreemangal,24.315354,91.694126,wh34qd3x5yx
+144,187,Chittagong,Chandpur,Chandpur Sadar,23.2320991,90.66307499999999,wh0kpj6bfc0
+145,188,Chittagong,Chandpur,Kachua,22.6555755,89.87857650000001,tupbvhrd69k
+146,189,Rajshahi,Pabna,Bhangura,24.2173789,89.3781432,tur9cbehmwt
+147,191,Rangpur,Kurigram,Chilmari,25.5810414,89.66163519999999,tuxc82cs7e8
+148,195,Chittagong,Chittagong,Patiya,22.294373,91.961867,w5cqudsd4u6
+149,196,Rangpur,Dinajpur,Dinajpur Sadar,25.636567,88.63857300000001,tux1c4bxu6q
+150,198,Mymensingh,Netrakona,Barhatta,24.8986484,90.8841992,wh2tshev5k6
+151,200,Mymensingh,Netrakona,Kendua,24.6703752,90.8436885,wh2s75n7777
+152,201,Dhaka,Gazipur,Kaliakair,24.119897,90.2807868,wh21nqukwf9
+153,202,Rajshahi,Pabna,Pabna Sadar,24.0076123,89.2383285,tur2wdmq7z2
+154,203,Rajshahi,Pabna,Santhia,24.071871,89.5308903,tur8vq4kucy
+155,205,Chittagong,Comilla,Chandina,23.4892481,91.00836369999999,wh0twun6b94
+156,206,Rangpur,Dinajpur,Bochaganj,25.7997217,88.46218909999999,tuwfv08nq2t
+157,207,Sylhet,Sunamganj,Sulla,,,
+158,208,Dhaka,Faridpur,Saltha,23.445,89.802,tupv7kpc42b
+159,209,Barisal,Pirojpur,Nesarabad (Swarupkati),,,
+160,210,Rajshahi,Pabna,Atgharia,24.1182123,89.2277026,tur3nqtdu0t
+161,211,Mymensingh,Mymensingh,Ishwarganj,24.6923421,90.5943697,wh2kmx0g3f4
+162,213,Khulna,Magura,Magura Sadar,23.485581,89.4190545,tuptdg2vqvx
+163,214,Dhaka,Tangail,Delduar,24.1201434,89.9440061,turcnwznp0x
+164,215,Dhaka,Manikganj,Manikganj Sadar,23.8346765,90.0186555,wh0p86vx49w
+165,216,Khulna,Bagerhat,Mollahat,22.881864,89.7567693,tupf4mwbs2d
+166,217,Khulna,Khulna,Dumuria,22.8634453,89.5167298,tupdj40j4zp
+167,218,Rajshahi,Bogra,Shibganj,24.6837476,88.15719349999999,tuqsqjd172p
+168,219,Dhaka,Munshiganj,Sreenagar,23.5487895,90.2807868,wh0jyqumwu9
+169,220,Khulna,Khulna,Khan Jahan Ali,22.913332,89.489351,tupdk7hpv48
+170,221,Khulna,Satkhira,Shyamnagar,22.3392217,89.10597899999999,tgzr5dszruc
+171,222,Rajshahi,Rajshahi,Baghmara,24.590836,88.8070886,tur5uuek50h
+172,224,Barisal,Patuakhali,Patuakhali Sadar,22.3587792,90.34523809999999,w5bppy73kds
+173,227,Khulna,Narail,Narail Sadar,23.1656982,89.4990219,tupeu95jyr5
+174,228,Sylhet,Habiganj,Nabiganj,24.567188,91.5136009,wh35f2q4jry
+175,232,Barisal,Barguna,Barguna Sadar,22.1191492,90.09336859999999,w5bjf4evrsk
+176,234,Dhaka,Narsingdi,Shibpur,23.9801051,90.7332793,wh282tmynxs
+177,235,Khulna,Jhenaidah,Maheshpur,23.3303492,88.8263006,tuphtr1m4u6
+178,237,Dhaka,Manikganj,Harirampur,23.7156764,89.9626799,tupyzjkcf6s
+179,239,Rangpur,Dinajpur,Biral,25.6318682,88.5371958,tuwcydnu6nw
+180,240,Chittagong,Bandarban,Lama,21.7250394,92.0469151,w5c7wdft88f
+181,241,Khulna,Narail,Kalia,23.0246287,89.64399240000002,tupdzzsb0mv
+182,242,Chittagong,Khagrachhari,Dighinala,23.2408468,92.0640687,wh1knyz58rc
+183,243,Khulna,Magura,Mohammadpur,23.4055777,89.5686271,tuptnhvgk7c
+184,244,Dhaka,Rajbari,Pangsha,23.7800218,89.412731,tupx69h2etk
+185,247,Rangpur,Thakurgaon,Ranisankail,25.8920465,88.2582857,tuwg23e8p57
+186,248,Chittagong,Brahamanbaria,Kasba,23.78307,91.1161166,wh0z33sdrms
+187,250,Chittagong,Noakhali,Chatkhil,23.0577929,90.97250849999999,wh0enjs1mh4
+188,253,Rangpur,Rangpur,Badarganj,25.6539681,89.07047659999999,tux3fy5jhw3
+189,255,Chittagong,Cox's Bazar,Chakaria,21.7619053,92.0775512,w5c7z38u63n
+190,256,Barisal,Bhola,Lalmohan,22.3404052,90.7347111,w5bx0dzn212
+191,258,Dhaka,Dhaka,Badda,23.7805462,90.4266584,wh0r39netz5
+192,259,Rajshahi,Rajshahi,Tanore,24.6359657,88.5371958,tuqunsyffhy
+193,261,Rangpur,Gaibandha,Gaibandha Sadar,25.3297044,89.5428879,tux8je5hhx0
+194,262,Dhaka,Kishoreganj,Itna,24.5441919,91.07777229999999,wh2g8s0u3bv
+195,264,Khulna,Jessore,Sharsha,23.069281,88.96053649999999,tup70reh69x
+196,268,Chittagong,Chandpur,Matlab Uttar,,,
+197,269,Mymensingh,Jamalpur,Bakshiganj,25.184411,89.86805059999999,turzkbxvv67
+198,271,Dhaka,Faridpur,Madhukhali,23.5485461,89.6063278,tuptznck4z0
+199,272,Rajshahi,Natore,Bagati Para,24.30709,88.99880979999999,tur630yzn9f
+200,274,Barisal,Barisal,Agailjhara,22.9713291,90.16354419999999,wh04etz1dy5
+201,275,Khulna,Bagerhat,Bagerhat Sadar,22.6911927,89.7567693,tupc46ycu2f
+202,282,Rajshahi,Sirajganj,Sirajganj Sadar,24.4524175,89.7045249,turg172vdvj
+203,283,Mymensingh,Mymensingh,Dhobaura,25.0899993,90.5222045,wh2qezkrb4z
+204,284,Mymensingh,Sherpur,Nalitabari,25.1413667,90.1869644,wh2ph2b5hd6
+205,285,Khulna,Jessore,Bagher Para,23.2204236,89.3466838,tups15hkb8s
+206,286,Dhaka,Tangail,Tangail Sadar,24.2627692,89.8692203,turfj0bubeg
+207,287,Chittagong,Comilla,Comilla Sadar Dakshin,23.3066766,91.15449629999999,wh0ud6bejxq
+208,291,Khulna,Jessore,Abhaynagar,23.0238177,89.3795835,tupdczk5rnx
+209,294,Chittagong,Chittagong,Raozan,22.5250447,91.9196949,wh125stcuhs
+210,295,Khulna,Meherpur,Mujib Nagar,23.649545,88.589909,tunyxcm0w6x
+211,296,Khulna,Kushtia,Kumarkhali,23.8595814,89.239589,tuprwxw21hk
+212,298,Rajshahi,Sirajganj,Chauhali,24.072394,89.7567693,turbfqnzu76
+213,299,Mymensingh,Jamalpur,Dewanganj,25.3310623,89.79131629999999,tuxb572h1k6
+214,300,Dhaka,Madaripur,Madaripur Sadar,23.2155345,90.1682271,wh0h5f62rcr
+215,303,Khulna,Kushtia,Bheramara,24.1055071,88.9654154,tur30kq8u2j
+216,304,Rajshahi,Naogaon,Niamatpur,24.8355273,88.5679981,tuqvr3jjrvv
+217,305,Dhaka,Gazipur,Kaliganj,25.9685979,89.2657266,tux7xr3q41w
+218,306,Rangpur,Nilphamari,Kishoreganj,25.9202129,89.0752499,tux76yws5vb
+219,310,Khulna,Bagerhat,Morrelganj,22.4499409,89.85284159999999,tgzzswuu6uq
+220,311,Chittagong,Chittagong,Banshkhali,22.2337164,91.8659809,w5cq6rwbb90
+221,312,Chittagong,Cox's Bazar,Teknaf,21.008238,92.217465,w59xd2qtyem
+222,313,Dhaka,Rajbari,Balia Kandi,,,
+223,314,Dhaka,Tangail,Sakhipur,24.2864848,90.1869644,wh24hm0ph8f
+224,316,Khulna,Bagerhat,Fakirhat,22.777513,89.7074695,tupc96dbxs1
+225,318,Sylhet,Habiganj,Bahubal,24.3412478,91.5378109,wh346zpy196
+226,319,Dhaka,Gopalganj,Muksudpur,23.2632379,89.9066314,tupumfun0mg
+227,322,Dhaka,Narayanganj,Sonargaon,23.6906423,90.62041649999999,wh0qy0ezbzb
+228,326,Chittagong,Chittagong,Chandanaish,22.2489309,92.08613299999999,w5cqx6r16mm
+229,327,Khulna,Bagerhat,Rampal,22.595713,89.68162079999999,tupb8c2jt4p
+230,330,Dhaka,Kishoreganj,Mithamain,24.4195583,91.0634024,wh2fbjqq5pd
+231,332,Rangpur,Thakurgaon,Pirganj,25.8191232,88.3433623,tuwffk1xm93
+232,334,Barisal,Barisal,Banari Para,22.7779323,90.1622648,wh01edw5j43
+233,335,Chittagong,Bandarban,Naikhongchhari,21.4269481,92.17572779999999,w5c9cs8m40s
+234,336,Chittagong,Comilla,Manoharganj,23.1122951,91.11583189999999,wh0g3rkwbu0
+235,337,Mymensingh,Sherpur,Sherpur Sadar,25.0190502,90.01383650000001,wh2n26d4d2v
+236,339,Dhaka,Kishoreganj,Bajitpur,24.0555274,90.9802452,wh28y71v977
+237,342,Khulna,Khulna,Dacope,22.6012347,89.5072866,tup8sf3jwzw
+238,346,Mymensingh,Netrakona,Durgapur,24.4479933,88.7686382,tur55fx7ghq
+239,347,Chittagong,Chandpur,Hajiganj,23.2520414,90.85083449999999,wh0s72gscys
+240,348,Chittagong,Feni,Parshuram,23.2092121,91.4241426,wh1h03j52yt
+241,352,Rajshahi,Rajshahi,Mohanpur,24.544858,88.63619589999999,tur58uqbjj1
+242,353,Chittagong,Comilla,Burichang,23.5450599,91.1161166,wh0vcqhxzmk
+243,358,Rajshahi,Naogaon,Naogaon Sadar,24.7813896,88.8838834,turhyx7609g
+244,361,Rangpur,Nilphamari,Dimla,26.1488689,88.9196987,tuxhz2m25nk
+245,362,Sylhet,Sylhet,Balaganj,,,
+246,363,Rangpur,Nilphamari,Jaldhaka,26.0196636,89.0165912,tuxk18ezsbv
+247,368,Chittagong,Comilla,Titas,23.5947484,90.7722974,wh0w1x637gf
+248,370,Rangpur,Rangpur,Mitha Pukur,25.6137326,89.28472510000002,tux3xwz4ucu
+249,371,Dhaka,Manikganj,Singair,23.786991,90.1682271,wh0p7f63rbx
+250,373,Barisal,Pirojpur,Zianagar,22.482402,89.957707,tgzzzhc1qx2
+251,377,Mymensingh,Mymensingh,Phulpur,24.9750789,90.3183792,wh2np4xf6u0
+252,379,Rajshahi,Bogra,Gabtali,24.8794971,89.4553088,turte95mef2
+253,382,Dhaka,Manikganj,Ghior,23.8703485,89.9159785,tupzy16yf5m
+254,385,Barisal,Patuakhali,Kala Para,21.9044485,90.1869644,w5bhs784st4
+255,386,Dhaka,Manikganj,Saturia,23.9729721,90.0361533,wh202u4kdmv
+256,387,Dhaka,Tangail,Dhanbari,24.6905333,89.9440061,turuqwz0z1p
+257,390,Chittagong,Feni,Feni Sadar,22.9710093,91.4241426,wh148mtpbfm
+258,395,Sylhet,Sunamganj,Tahirpur,,,
+259,397,Chittagong,Bandarban,Thanchi,21.820348,92.437591,w5cspkqbxzx
+260,399,Dhaka,Tangail,Kalihati,24.3394233,89.92422549999999,turfqqbg6m6
+261,401,Rangpur,Kurigram,Nageshwari,25.9659064,89.6912763,tuxg8yznq5y
+262,404,Rajshahi,Bogra,Sonatola,25.0101829,89.5025641,turwk8vybuh
+263,406,Dhaka,Munshiganj,Gazaria,23.6237764,90.50004039999999,wh0q7ks47z1
+264,408,Khulna,Jhenaidah,Kotchandpur,23.4075287,89.0119581,tupm1t0w8zw
+265,409,Chittagong,Rangamati,Rangamati Sadar,22.6527331,92.18432849999999,wh18cey9dx9
+266,410,Dhaka,Munshiganj,Serajdikhan,23.5961616,90.3936722,wh0q0zw9t5r
+267,411,Sylhet,Habiganj,Lakhai,24.3106095,91.30236769999999,wh2fm9s7e65
+268,412,Rangpur,Gaibandha,Sundarganj,25.5643622,89.5190902,tux9mjcg1yx
+269,414,Khulna,Meherpur,Gangni,23.8206519,88.74218309999999,tuppe2kj6er
+270,416,Barisal,Barguna,Bamna,22.2741614,90.04665589999999,w5bn9ncurht
+271,417,Chittagong,Lakshmipur,Roypur,22.9758497,90.6962853,wh06xyeh08g
+272,419,Barisal,Barisal,Wazirpur,22.8193437,90.2502935,wh01vdnk23b
+273,420,Rangpur,Nilphamari,Domar,26.1546619,88.8070886,tuxhuc73gnk
+274,425,Rangpur,Gaibandha,Sadullapur,25.3909385,89.46594619999999,tux87y70gtu
+275,428,Rangpur,Kurigram,Raumari,25.592668,89.832688,tuxcs5n0j75
+276,430,Dhaka,Narayanganj,Bandar,23.6314492,90.5352356,wh0qkjvxpvk
+277,431,Chittagong,Bandarban,Bandarban Sadar,22.202303,92.213015,w5cw63g3ycr
+278,433,Dhaka,Madaripur,Shib Char,23.3584485,90.1682271,wh0hgu62zfr
+279,437,Rajshahi,Rajshahi,Puthia,24.4010724,88.8455037,tur4vdp6d39
+280,438,Mymensingh,Sherpur,Nakla,24.9716659,90.1787051,wh2nh1fnkpu
+281,439,Chittagong,Lakshmipur,Lakshmipur Sadar,22.9511825,90.86751339999999,wh0dedpsqd8
+282,441,Rajshahi,Sirajganj,Ullah Para,24.3571916,89.5308903,turdt646uvw
+283,442,Chittagong,Rangamati,Rajasthali,22.3892808,92.2827384,w5cx7gy5p8m
+284,443,Rangpur,Nilphamari,Saidpur,25.8245401,88.9222277,tux4zmpny54
+285,447,Sylhet,Sunamganj,Dowarabazar,,,
+286,448,Rangpur,Panchagarh,Tentulia,26.5170069,88.4306955,tuwyu732b83
+287,452,Mymensingh,Netrakona,Atpara,24.8097761,90.8603645,wh2t5s6rrvq
+288,457,Chittagong,Rangamati,Jurai Chhari,22.6708223,92.3788939,wh18yph705x
+289,459,Khulna,Jessore,Jhikargachha,23.0999066,89.0991083,tup77mpyxww
+290,460,Rajshahi,Natore,Baraigram,24.284137,89.1324866,tur6hkb337p
+291,462,Chittagong,Chittagong,Sitakunda,22.6170686,91.68092829999999,wh10wm21brn
+292,465,Mymensingh,Jamalpur,Jamalpur Sadar,24.9074436,89.95016980000001,turvwy78qu5
+293,474,Rajshahi,Pabna,Faridpur,24.1554753,89.4443257,tur97m77gfg
+294,479,Chittagong,Cox's Bazar,Pekua,21.817199,91.955116,w5ckh7xwms8
+295,480,Khulna,Bagerhat,Chitalmari,22.7866641,89.8692203,tupcth0vbw5
+296,482,Rangpur,Kurigram,Phulbari,25.9490674,89.5521217,tuxetgcu78v
+297,485,Dhaka,Narsingdi,Manohardi,24.1659585,90.73427339999999,wh292xq8vv1
+298,486,Sylhet,Sylhet,Kanaighat,,,
+299,488,Rajshahi,Sirajganj,Belkuchi,24.3101137,89.7192132,turf39e89jw
+300,489,Dhaka,Shariatpur,Zanjira,23.345595,90.30085670000001,wh0hycgjfqr
+301,491,Rajshahi,Natore,Natore Sadar,24.4021576,88.99880979999999,tur6c4qbyef
+302,493,Barisal,Barisal,Hizla,22.928412,90.44125489999999,wh066jcr9vz
+303,495,Mymensingh,Netrakona,Kalmakanda,25.0765713,90.88896779999999,wh2wsjp3d7w
+304,496,Chittagong,Lakshmipur,Ramgati,22.6529135,90.93429730000001,wh08v7b6f9n
+305,500,Chittagong,Cox's Bazar,Maheshkhali,21.5834097,91.9294681,w5c6gchurz5
+306,501,Barisal,Bhola,Tazumuddin,22.4179785,90.85083449999999,w5bxe35d1yh
+307,502,Barisal,Bhola,Burhanuddin,22.4752515,90.7152749,w5bxb72zg4e
+308,506,Chittagong,Comilla,Debidwar,23.593449,91.0011902,wh0wnz11c3t
+309,507,Rangpur,Panchagarh,Boda,26.2474396,88.6144839,tuxj26pn7jk
+310,508,Sylhet,Sylhet,Zakiganj,,,
+311,512,Rangpur,Lalmonirhat,Lalmonirhat Sadar,25.8748188,89.4553088,tuxe5w77ezb
+312,514,Mymensingh,Mymensingh,Gaffargaon,24.3822895,90.5700334,wh26syxj4sp
+313,521,Rajshahi,Rajshahi,Paba,24.4350479,88.64343079999999,tur510k0mxh
+314,524,Dhaka,Kishoreganj,Karimganj,24.4503945,90.8865834,wh2eh5j9fgu
+315,527,Mymensingh,Mymensingh,Muktagachha,24.7660178,90.2561365,wh2hvud882m
+316,536,Sylhet,Sylhet,Dakshin Surma,,,
+317,539,Chittagong,Brahamanbaria,Nabinagar,23.8882098,90.9605637,wh0xvueqyv0
+318,542,Sylhet,Habiganj,Baniachong,24.5063217,91.3565692,wh2gqv5zdm7
+319,543,Chittagong,Comilla,Meghna,23.6248412,90.70103189999999,wh0qruy2xjx
+320,547,Rangpur,Lalmonirhat,Hatibandha,26.1422221,89.1348697,tuxksr413p2
+321,548,Khulna,Khulna,Dighalia,22.8634453,89.5167298,tupdj40j4zp
+322,551,Sylhet,Maulvibazar,Kulaura,,,
+323,553,Chittagong,Comilla,Daudkandi,23.5337738,90.7247008,wh0tbkpwnv2
+324,557,Mymensingh,Netrakona,Mohanganj,,,
+325,560,Rajshahi,Naogaon,Raninagar,24.7284859,88.95574979999999,turk8jxtg5y
+326,563,Dhaka,Gazipur,Gazipur Sadar,23.9999322,90.4202176,wh22991cxz8
+327,567,Rangpur,Gaibandha,Palashbari,25.2706473,89.389057,turxf07h5yp
+328,568,Dhaka,Gazipur,Kapasia,24.1666098,90.5825359,wh23mr2hwnd
+329,574,Sylhet,Maulvibazar,Barlekha,,,
+330,576,Chittagong,Khagrachhari,Lakshmichhari,22.7961681,91.91236640000001,wh13etbt33e
+331,578,Dhaka,Gopalganj,Tungi Para,,,
+332,580,Chittagong,Chittagong,Mirsharai,22.6170686,91.68092829999999,wh10wm21brn
+333,583,Barisal,Barisal,Gaurnadi,22.9414261,90.2526163,wh04t8rgqru
+334,585,Dhaka,Kishoreganj,Pakundia,,,
+335,586,Rajshahi,Sirajganj,Tarash,24.4308914,89.3724769,turdcxx038h
+336,588,Barisal,Jhalokati,Rajapur,22.570369,90.14390929999999,wh007kbccmd
+337,591,Dhaka,Tangail,Basail,24.2330971,90.0513246,wh21c5t25bw
+338,593,Barisal,Jhalokati,Jhalokati Sadar,22.691245,90.20571079999999,wh01hdvf16t
+339,600,Chittagong,Brahamanbaria,Brahmanbaria Sadar,23.9258247,91.1161166,wh2b17sdp2u
+340,601,Rajshahi,Rajshahi,Godagari,24.4687379,88.4403883,tuqghw2kdrm
+341,603,Chittagong,Noakhali,Companiganj,22.8293515,91.26984750000001,wh0cuguwted
+342,604,Chittagong,Noakhali,Kabirhat,22.7956429,91.1989169,wh0cemc40zc
+343,607,Barisal,Barisal,Muladi,22.8875337,90.3889622,wh060ye1x3x
+344,612,Chittagong,Khagrachhari,Manikchhari,22.8417234,91.83671,wh13cy1qwmy
+345,616,Dhaka,Kishoreganj,Kishoreganj Sadar,24.4323946,90.7868039,wh2dczucjb7
+346,617,Dhaka,Gopalganj,Gopalganj Sadar,23.0488146,89.8879304,tupgj7ymhd6
+347,618,Dhaka,Munshiganj,Lohajang,23.4743053,90.32072989999999,wh0jx33e9x9
+348,620,Rangpur,Lalmonirhat,Patgram,26.3569512,89.0083726,tuxmcqjum7v
+349,632,Rangpur,Kurigram,Ulipur,25.6564202,89.62045619999999,tux9zqee7zr
+350,639,Sylhet,Sunamganj,Jamalganj,,,
+351,643,Dhaka,Tangail,Nagarpur,24.0576707,89.87623769999999,turbv5tfh4u
+352,645,Chittagong,Rangamati,Belai Chhari,22.3622596,92.49999179999999,w5cz0yumw52
+353,646,Rangpur,Dinajpur,Parbatipur,25.6543901,88.9162387,tux1zq4zdsc
+354,648,Mymensingh,Jamalpur,Islampur,25.0812952,89.7894766,turyejytnkq
+355,649,Rangpur,Kurigram,Kurigram Sadar,25.8281684,89.68162079999999,tuxfbvb5vpx
+356,657,Rajshahi,Sirajganj,Shahjadpur,24.19094,89.5874819,tur9wegd7wh
+357,659,Rangpur,Dinajpur,Birampur,25.386836,88.9701082,tux22td11c1
+358,663,Rajshahi,Pabna,Bera,24.0769424,89.61545199999999,tur8zppfr7k
+359,668,Barisal,Barguna,Betagi,22.4141607,90.1658856,w5bpeb2gcqm
+360,669,Chittagong,Chittagong,Rangunia,22.4698078,92.0518154,w5crydw04gb
+361,672,Chittagong,Rangamati,Kawkhali (Betbunia),,,
+362,675,Dhaka,Gopalganj,Kashiani,23.1678457,89.7942892,tupgg3d4qx6
+363,683,Barisal,Bhola,Daulatkhan,,,
+364,686,Rajshahi,Bogra,Sherpur,24.6419203,89.41746409999999,turs4tzv9fv
+365,692,Rangpur,Lalmonirhat,Aditmari,25.9218264,89.3795835,tuxe3yujx4x
+366,697,Rajshahi,Sirajganj,Kamarkhanda,24.3931712,89.65340289999999,turfb0ese8w
+367,700,Chittagong,Lakshmipur,Ramganj,23.0992453,90.8609927,wh0e7t4fye6
+368,703,Chittagong,Khagrachhari,Khagrachhari Sadar,23.094588,91.9726151,wh17kuhrtr0
+369,708,Rajshahi,Naogaon,Manda,24.7758918,88.7026376,turhfqr612b
+370,709,Mymensingh,Mymensingh,Bhaluka,24.3813087,90.3371889,wh24xwmx3j6
+371,714,Rajshahi,Bogra,Dhunat,24.6779694,89.5403279,tursms3r8fg
+372,715,Barisal,Pirojpur,Bhandaria,22.4410669,90.0093266,w5bp8jqb9q4
+373,730,Barisal,Barisal,Bakerganj,22.5408653,90.3332458,wh00px6wj1y
+374,733,Barisal,Jhalokati,Nalchity,22.5957827,90.2807868,wh00w3kmyz1
+375,740,Rangpur,Gaibandha,Saghatta,25.1221798,89.5856475,turwyt672cs
+376,741,Chittagong,Cox's Bazar,Cox's Bazar Sadar,21.4272066,92.0061116,w5c3vssy9bc
+377,749,Sylhet,Sunamganj,Chhatak,24.9427401,91.63721500000001,wh3jvk8jvzg
+378,751,Rajshahi,Bogra,Nandigram,24.6885682,89.2277026,turkqqmtk4t
+379,753,Sylhet,Sunamganj,Derai,24.7552333,91.4048249,wh2uzfwcwvc
+380,761,Rajshahi,Rajshahi,Charghat,24.2785308,88.75180499999999,tur45eg0dyn
+381,762,Khulna,Jhenaidah,Harinakunda,23.6415283,89.0752499,tupq6zy9gu2
+382,765,Rajshahi,Bogra,Sariakandi,24.8887731,89.5709844,turtw4zee5w
+383,768,Mymensingh,Sherpur,Sreebardi,25.147401,89.9393363,turzn9gy4rm
+384,774,Rajshahi,Naogaon,Mahadebpur,24.9197919,88.75180499999999,turjg8e06cy
+385,779,Rangpur,Dinajpur,Birganj,25.8934484,88.6723578,tux53cc0r8w
+386,782,Dhaka,Shariatpur,Naria,23.2626763,90.4313729,wh0k3ff4gtn
+387,783,Khulna,Jessore,Manirampur,23.0231532,89.2277026,tup6yrjxs4v
+388,785,Dhaka,Narayanganj,Rupganj,23.9192671,90.7176492,wh28066ef6w
+389,786,Rajshahi,Nawabganj,Bholahat,24.9169992,88.1876676,tuqtyb02197
+390,804,Rajshahi,Natore,Gurudaspur,24.3561454,89.2657266,tur6x3ckf4w
+391,808,Rangpur,Kurigram,Rajarhat,25.7960369,89.5447389,tuxdv8h2z9u
+392,809,Khulna,Jessore,Keshabpur,22.902491,89.22064879999999,tup6q322xvc
+393,816,Dhaka,Dhaka,Dohar,23.6181867,90.11966950000001,wh0n6ex1ut0
+394,818,Rajshahi,Pabna,Chatmohar,24.2136905,89.3037147,tur98puyzrh
+395,834,Rajshahi,Bogra,Kahaloo,24.833136,89.26885999999999,turmr2exe0n
+396,851,Chittagong,Brahamanbaria,Bijoynagar,24.0141859,91.2265536,wh2begthub8
+397,865,Dhaka,Rajbari,Kalukhali,0.0,0.0,7zzzzzzzzzz
+398,871,Dhaka,Faridpur,Boalmari,23.4058472,89.68162079999999,tupv0ubhvnp
+399,875,Rajshahi,Bogra,Bogra Sadar,24.8790417,89.341667,turt910dgtx
+400,878,Chittagong,Brahamanbaria,Nasirnagar,24.1953566,91.19837,wh2cek8shj3
+401,890,Rajshahi,Sirajganj,Royganj,24.4997791,89.5308903,turemk43scy
+402,892,Chittagong,Comilla,Brahman Para,23.6225266,91.1017334,wh0y3h670np
+403,902,Rangpur,Dinajpur,Ghoraghat,25.30525,89.18964299999999,turrvw9vv2d
+404,915,Chittagong,Rangamati,Naniarchar,22.862167,92.1106617,wh1d01bvvbz
+405,919,Chittagong,Chittagong,Hathazari,22.5084634,91.80745859999999,wh1211s1kcd
+406,920,Chittagong,Noakhali,Hatiya,22.2824053,91.09693999999999,w5bybbqu2t3
+407,921,Khulna,Bagerhat,Mongla,22.5317608,89.5901808,tup8ntv9488
+408,936,Chittagong,Cox's Bazar,Ramu,21.4272283,92.0058074,w5c3vsswdsy
+409,937,Mymensingh,Netrakona,Khaliajuri,24.6864178,91.1161166,wh2u3qh8z3u
+410,944,Rajshahi,Sirajganj,Kazipur,24.6520833,89.6335162,turspxv0u33
+411,949,Sylhet,Sunamganj,Dharampasha,24.899759,91.010989,wh2txhb5tg8
+412,950,Rajshahi,Natore,Singra,24.4999846,89.1429216,tur7kkpfu8h
+413,955,Rajshahi,Bogra,Dhupchanchia,24.8812002,89.17774200000001,turmt33przz
+414,967,Rangpur,Rangpur,Rangpur Sadar,25.7318144,89.2277026,tux6qkmdsjv
+415,969,Khulna,Satkhira,Kalaroa,22.8573021,89.0417406,tup641n1qvy
+416,974,Mymensingh,Netrakona,Madan,24.716787,90.94688740000001,wh2ste998p4
+417,988,Khulna,Khulna,Paikgachha,22.5930919,89.3167649,tup882yqr3w
+418,995,Barisal,Barisal,Barisal Sadar (Kotwali),,,
+419,1010,Chittagong,Rangamati,Kaptai,22.4943822,92.2212071,w5cxfwcrmbu
+420,1020,Rangpur,Nilphamari,Nilphamari Sadar,25.9485395,88.8373514,tux5tec3hq6
+421,1034,Chittagong,Noakhali,Subarnachar,22.6638056,91.09693999999999,wh0bbvyf0x9
+422,1047,Dhaka,Faridpur,Char Bhadrasan,23.5966566,89.9813445,tupypxdkmr9
+423,1049,Chittagong,Chandpur,Haim Char,23.0594434,90.6488505,wh07nvb6zrc
+424,1061,Barisal,Barguna,Patharghata,22.071474,89.9440061,tgzvw9zpxhz
+425,1065,Chittagong,Lakshmipur,Kamalnagar,22.7844742,90.8484524,wh09e7cc4mg
+426,1078,Dhaka,Faridpur,Nagarkanda,23.4537695,89.9066314,tupvmvsh07e
+427,1118,Rangpur,Kurigram,Char Rajibpur,25.4613239,89.7661527,tuxbfejdyyy
+428,1125,Dhaka,Narsingdi,Palash,23.9641782,90.6488505,wh22qf83rq9
+429,1138,Sylhet,Sylhet,Jaintiapur,,,
+430,1156,Khulna,Jessore,Chaugachha,23.2603293,89.0370477,tupk646v1xd
+431,1166,Chittagong,Khagrachhari,Panchhari,23.3024586,91.89771309999999,wh1ke4jfevj
+432,1170,Chittagong,Feni,Chhagalnaiya,23.0386278,91.51844179999999,wh154d19wr2
+433,1176,Rajshahi,Naogaon,Porsha,25.0078982,88.4925433,tuqym8w39dn
+434,1186,Dhaka,Kishoreganj,Nikli,24.0555274,90.9802452,wh28y71v977
+435,1190,Dhaka,Kishoreganj,Kuliar Char,,,
+436,1196,Dhaka,Rajbari,Goalandaghat,,,
+437,1207,Rangpur,Panchagarh,Debiganj,26.1202169,88.7589007,tuxheg03233
+438,1245,Rangpur,Dinajpur,Kaharole,25.8215744,88.57585739999999,tuwfzsdvx46
+439,1251,Chittagong,Feni,Daganbhuiyan,22.9720014,91.3083685,wh0ftvbtx5q
+440,1261,Chittagong,Chandpur,Matlab Dakshin,23.3447826,90.762788,wh0sc3g3nnz
+441,1265,Sylhet,Sunamganj,Bishwambarpur,25.0987573,91.299939,wh2yv94dfg2
+442,1267,Chittagong,Brahamanbaria,Banchharampur,23.77842,90.8043132,wh0x629xmfg
+443,1279,Chittagong,Chandpur,Faridganj,23.1274882,90.75090449999999,wh0e944z3k6
+444,1290,Khulna,Bagerhat,Sarankhola,22.0952234,89.81303559999999,tgzvewrf52j
+445,1295,Chittagong,Chandpur,Shahrasti,23.2306433,90.9486223,wh0sjt4b29b
+446,1304,Barisal,Bhola,Manpura,22.1998595,90.9533984,w5bwm9q5xcc
+447,1313,Dhaka,Dhaka,Khilgaon,23.7566389,90.4643906,wh0r4sf0mn6
+448,1314,Dhaka,Dhaka,Sabujbagh,23.7333,90.4333,wh0r1be82xg
+449,1315,Dhaka,Dhaka,Biman Bandar,,,
+450,1316,Dhaka,Dhaka,Khilkhet,23.831458,90.426489,wh0r9dqs3cv
+451,1317,Dhaka,Dhaka,Dakshinkhan,,,
+452,1326,Dhaka,Kishoreganj,Tarail,24.5494898,90.8893308,wh2esjpe4ut
+453,1328,Khulna,Khulna,Phultala,22.8653,89.511,tupdhfebj2z
+454,1332,Dhaka,Shariatpur,Damudya,23.1447429,90.436391,wh079vmgbsu
+455,1333,Khulna,Chuadanga,Damurhuda,23.6067377,88.7758503,tupnk1kx5nz
+456,1353,Rangpur,Gaibandha,Gobindaganj,25.1404178,89.436391,turx50ttdcw
+457,1371,Rajshahi,Pabna,Ishwardi,24.1290468,89.07151859999999,tur36becuu6
+458,1399,Khulna,Satkhira,Debhata,22.5809462,88.9892448,tup22yxzx9q
+459,1416,Dhaka,Dhaka,Demra,23.722963,90.483827,wh0qgn8k3bz
+460,1481,Khulna,Satkhira,Tala,22.7609333,89.20867729999999,tup3mzxb0c7
+461,1485,Dhaka,Dhaka,Jatrabari,,,
+462,1486,Dhaka,Dhaka,Kadamtali,23.7012548,90.3974582,wh0qc49mv6n
+463,1495,Mymensingh,Sherpur,Jhenaigati,25.1859383,90.0629989,wh2p32vyezp
+464,1575,Barisal,Pirojpur,Nazirpur,22.7867163,89.9813445,tupcxs4qjrc
+465,1581,Khulna,Jhenaidah,Jhenaidah Sadar,,,
+466,1622,Sylhet,Sunamganj,Dakshin Sunamganj,24.9211898,91.4241426,wh3jb2v02ym
+467,1623,Barisal,Pirojpur,Pirojpur Sadar,22.5960257,89.9813445,tupbx96rmk3
+468,1664,Rangpur,Gaibandha,Fulchhari,25.3198082,89.5958514,tux8nc3dwdk
+469,1697,Rajshahi,Nawabganj,Nachole,24.7326602,88.4137279,tuqueykyjnj
+470,1698,Sylhet,Maulvibazar,Rajnagar,24.565971,91.854552,wh37f0n7nhy
+471,1711,Sylhet,Sylhet,Fenchuganj,,,
+472,1730,Sylhet,Maulvibazar,Juri,,,
+473,1793,Dhaka,Shariatpur,Gosairhat,23.0988395,90.45259539999999,wh076m186pz
+474,1842,Chittagong,Bandarban,Ruma,22.039358,92.408245,w5ctqu1ss4j
+475,1939,Sylhet,Habiganj,Habiganj Sadar,24.3512631,91.4241426,wh3483j02um
+476,2021,Chittagong,Cox's Bazar,Ukhia,21.2446617,92.13891579999999,w5c8bemx07g
+477,2034,Chittagong,Khagrachhari,Ramgarh,22.9675073,91.7733566,wh168m576jw
+478,2035,Rangpur,Rangpur,Kaunia,25.7741665,89.4316601,tuxdeh41ksz
+479,2065,Dhaka,Dhaka,Turag,23.872872,90.369814,wh0rb3vm93c
+480,2094,Sylhet,Sylhet,Sylhet Sadar,,,
+481,2635,Chittagong,Khagrachhari,Mahalchhari,22.9316977,92.02976799999999,wh16qnw4c42
+482,4596,Dhaka,Dhaka,Kamrangir Char,23.7182214,90.367774,wh0qbmgb9ub
+483,4831,Dhaka,Dhaka,Uttar Khan,23.875983,90.443674,wh0rf47pdmg
+484,4863,Chittagong,Chittagong,Bayejid Bostami,22.379447,91.820292,w5cr36j3xzk
+485,4865,Dhaka,Dhaka,Uttara,23.8758547,90.3795438,wh0rbdkqujb
+486,4867,Rajshahi,Rajshahi,Rajpara,24.3735078,88.5722344,tuqfxt03fxh
+487,4871,Dhaka,Dhaka,Pallabi,23.830358,90.358493,wh0r84jjckx
+488,4882,Chittagong,Chittagong,Chandgaon,22.383925,91.859079,w5cr66cezdj
+489,4883,Dhaka,Dhaka,Kafrul,23.7895638,90.39131719999999,wh0r2fubq25
+490,4899,Chittagong,Chittagong,Panchlaish,22.361734,91.831932,w5cr1wvfx17
+491,4900,Khulna,Khulna,Khalishpur,24.0050486,88.87552989999999,tur0w3vptcq
+492,4905,Dhaka,Dhaka,Shah Ali,23.805464,90.348773,wh0prvtuyup
+493,4907,Rajshahi,Rajshahi,Boalia,24.3694859,88.6193098,tur48s6de96
+494,4909,Chittagong,Chittagong,Khulshi,22.213,91.483,w5cn3ezbh7k
+495,4912,Dhaka,Dhaka,Darus Salam,,,
+496,4917,Chittagong,Chittagong,Pahartali,22.3667,91.775,w5cr0rsx2rp
+497,4930,Chittagong,Chittagong,Halishahar,22.318119,91.77822669999999,w5cqbqyu7wv
+498,4937,Chittagong,Chittagong,Double Mooring,22.3297149,91.80745859999999,w5cr11h0hbd
+499,4956,Dhaka,Dhaka,Cantonment,,,
+500,4964,Khulna,Khulna,Sonadanga,22.8247809,89.5379687,tup9v7peczs
+501,4968,Chittagong,Chittagong,Bakalia,22.351479,91.851867,w5cr4huqz9s
+502,4970,Rajshahi,Rajshahi,Shah Makhdum,24.4085024,88.6087775,tur4b76vy4t
+503,4976,Dhaka,Dhaka,Gulshan,23.791999,90.409443,wh0r374nkwn
+504,4993,Dhaka,Dhaka,Tejgaon Ind. Area,23.764296,90.403077,wh0r1njt03g
+505,4997,Khulna,Khulna,Khulna Sadar,,,
+506,5002,Dhaka,Dhaka,Rampura,23.7627,90.420911,wh0r1tf7zbm
+507,5041,Rajshahi,Rajshahi,Matihar,24.3667535,88.6458421,tur495vftu4
+508,5054,Dhaka,Dhaka,Motijheel,23.735892,90.418071,wh0r18brtfb
+509,5065,Dhaka,Dhaka,Paltan,23.7330218,90.3983829,wh0r106nfgz
+510,5066,Chittagong,Chittagong,Chittagong Port,22.2806,91.7917,w5cqbb09vsu
+511,5071,Dhaka,Dhaka,Tejgaon,23.7583,90.3917,wh0r0vj4pk0
+512,5075,Chittagong,Chittagong,Patenga,22.31344,91.805574,w5cqcn4c0yt
+513,5077,Dhaka,Dhaka,Sher-e-bangla Nagar,23.77177,90.374184,wh0r0x82x55
+514,5082,Dhaka,Dhaka,Adabor,23.773612,90.354352,wh0r0pf5342
+515,5087,Dhaka,Dhaka,Hazaribagh,23.735313,90.368965,wh0r02usjx0
+516,5089,Dhaka,Dhaka,Dhanmondi,23.746029,90.376377,wh0r0df4dhx
+517,5093,Dhaka,Dhaka,Kalabagan,23.4455,90.2259,wh0jmhh7zvg
+518,5096,Dhaka,Dhaka,New Market,23.734902,90.381655,wh0r08vcv4q
+519,5097,Dhaka,Dhaka,Ramna,23.7330218,90.3983829,wh0r106nfgz
+520,5100,Dhaka,Dhaka,Shahbagh,23.739848,90.394092,wh0r0cwyxh2
+521,5101,Dhaka,Dhaka,Lalbagh,23.7181758,90.3866074,wh0qbvc82s7
+522,5108,Dhaka,Dhaka,Bangshal,23.717762,90.401634,wh0qcjsmyz2
+523,5109,Dhaka,Dhaka,Chak Bazar,23.717108,90.39617,wh0qcj86pmm
+524,5124,Dhaka,Dhaka,Sutrapur,23.7121399,90.4195876,wh0qcs9t1p7
+525,5126,Dhaka,Dhaka,Gendaria,23.702129,90.426016,wh0qcdy4yvh
+526,5135,Dhaka,Dhaka,Shyampur,23.686993,90.446727,wh0qf0j69rx
