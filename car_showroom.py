@@ -31,34 +31,33 @@ ws.write(0, 4, "District")
 ws.write(0, 5, "Rating")
 
 
-all_districts = [
-                "Rajbari", "Barisal", "Sylhet", "Barguna", "Bhola", "Jhalokati", "Patuakhali", "Pirojpur", "Bandarban",
+all_districts = ["Rajbari", "Barisal", "Sylhet", "Barguna", "Bhola", "Jhalokati", "Patuakhali", "Pirojpur", "Bandarban",
                  "Brahmanbaria", "Chandpur", "Chittagong", "Comilla", "Cox's Bazar", "Feni", "Khagrachhari",
                  "Lakshmipur", "Noakhali", "Rangamati", "Dhaka", "Faridpur", "Gazipur", "Gopalganj",
                  "Kishoreganj", "Madaripur", "Manikganj", "Munshiganj", "Narayanganj", "Narsingdi",
-                 "Shariatpur", "Tangail", "Bagerhat", "Chuadanga", "Jessore", "Jhenaidah", "Khulna",
-                 "Kushtia", "Magura", "Meherpur", "Narail", "Satkhira", "Jamalpur", "Mymensingh",
+                 "Shariatpur", "Tangail", "Bagerhat", "Chuadanga", "Jessore", "Jhenaidah",
+                 "Khulna", "Kushtia", "Magura", "Meherpur", "Narail", "Satkhira", "Jamalpur", "Mymensingh",
                  "Netrokona", "Sherpur", "Bogra", "Joypurhat", "Naogaon", "Natore", "Chapainawabganj",
                  "Pabna", "Rajshahi", "Sirajganj", "Dinajpur", "Gaibandha", "Kurigram", "Lalmonirhat",
-                 "Nilphamari", "Panchagarh", "Rangpur", "Thakurgaon", "Habiganj", "Moulvibazar", "Sunamganj"
-                ]
+                 "Nilphamari", "Panchagarh", "Rangpur", "Thakurgaon", "Habiganj", "Moulvibazar",
+                 "Sunamganj"]
 
+# "Barisal",
+
+print(len(all_districts))
 
 row_count = 1
 restaurant_count = 0
 
 for dst in all_districts:
     try:
-        if dst.lower() == 'dhaka':
-            WEBSITE_URL = "https://www.google.com/search?query=top+banks+in+{}".format(dst)
-        else:
-            WEBSITE_URL = "https://www.google.com/search?query=banks+in+{}".format(dst)
+        WEBSITE_URL = "https://www.google.com/search?query=Car+Showroom+{}".format(dst)
         print(WEBSITE_URL)
 
         driver.get(WEBSITE_URL)
         # time.sleep(1)
         try:
-            view_all_btn = driver.find_element_by_css_selector('#rso > div.ULSxyf > div > div > div.AEprdc > div > div:nth-child(6) > div > g-more-link > a > div > span.wUrVib')
+            view_all_btn = driver.find_element_by_css_selector('#rso > div:nth-child(1) > div > div.AEprdc.vk_c > div > div:nth-child(6) > div > g-more-link > a > div > span.wUrVib')
             view_all_btn.click()
             # driver.refresh()
             time.sleep(1)
@@ -143,5 +142,5 @@ for dst in all_districts:
     except Exception as ex:
         print(ex)
 
-wb.save("bank_list_top_adjusted.xls")
+wb.save("car_showroom_list.xls")
 print('Total Banks: ', restaurant_count)
